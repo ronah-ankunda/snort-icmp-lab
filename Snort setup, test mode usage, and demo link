@@ -2,7 +2,7 @@
 # Snort ICMP Alert Lab
 This mini project demonstrates how to detect ICMP traffic using Snort 3 on Kali Linux in a virtualized lab environment. It simulates an intrusion detection scenario, showcasing custom rule creation, configuration testing, and output analysis.
 
-## 🧪 Lab Environment
+## Lab Environment
 - **Operating System**: Kali Linux 
 - **Tool**: Snort (installed manually via terminal)
 - **Scenario**: ICMP rule validation and configuration testing using Snort’s test mode (`-T`). No live network traffic was generated. The focus was on ensuring the detection engine correctly interprets and loads a custom ICMP alert rule for SOC-style readiness.
