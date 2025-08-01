@@ -29,11 +29,10 @@ This project includes a video demonstration showing:
 - Real-time alert triggering in Snort console
 - Validation steps using Snort’s test mode
 
-🎥 [Snort ICMP Alert Lab Demo](https://youtu.be/dRXjBWnZUHA)
-
+[Watch the demo video](https://youtu.be/dRXjBWnZUHA?si=Cw7HFmKq1BbXCKTC)
 > The video walks through the full lab setup and confirms successful detection of ICMP packets using a custom Snort rule.
 
-## 📘 Learning Outcomes
+## Learning Outcomes
 - Gained hands-on experience with Snort rule syntax
 - Practiced configuration testing and rule validation using test mode
 - Understood how Snort handles rule parsing and readiness checks
